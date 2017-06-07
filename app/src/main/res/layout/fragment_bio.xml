@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="xir4n23.remidiuts.telkomschid.remidiuts.Bio">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <TextView
+        android:id="@+id/nama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="Nama : Muhammad Ridjal Fathoni Rosyidi"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />/>
+
+    <TextView
+        android:id="@+id/kelas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:text="Kelas : XI RPL 4"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />/>
+
+    <TextView
+        android:id="@+id/no"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:text="Nomor Absen : 23"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />/>
+
+    <TextView
+        android:id="@+id/alamat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:text="Alamat : Perum. Tasikmadu Jl. Gayam 7 No.14. Tuban, Jawa Timur"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />/>
+
+</LinearLayout>
