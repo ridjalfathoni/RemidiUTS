@@ -22,6 +22,14 @@
         <activity
             android:name=".Tab"
             android:label="@string/title_activity_tab"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Spin"
+            android:label="@string/title_activity_spin"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Drawer"
+            android:label="@string/title_activity_drawer"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
